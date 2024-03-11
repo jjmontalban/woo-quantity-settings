@@ -1,0 +1,73 @@
+# Copyright (C) 2022 JJMontalban
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Quantity Settings 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/product-quantity-settings\n"
+"POT-Creation-Date: 2022-06-15T10:59:49+02:00\n"
+"PO-Revision-Date: 2022-06-15 11:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Domain: pqs\n"
+
+#. Plugin Name of the plugin
+msgid "Product Quantity Settings"
+msgstr "Configuración de cantidades de Producto"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/jjmontalban/woo-quantity-settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create a new option in product creation. You can to set a minimum, a maximum one or a quantity range for products."
+msgstr "Crea una nueva opción en la creación de un producto. Establece una cantidad mínima, máxima o un rango de cantidades a la venta."
+
+#. Author of the plugin
+msgid "JJMontalban"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jjmontalban.github.io"
+msgstr ""
+
+#: product-quantity-settings.php:43
+msgid "This plugin requires Woocommerce to be installed and activated. You can download WooCommerce latest version %1$s or go back to %2$s"
+msgstr "Este plugin requiere una instalación activa de Woocommerce. Puedes descargar a última versión %1$s o volver al listado de %2$s"
+
+#: product-quantity-settings.php:80
+msgid "Quantity settings"
+msgstr "Configuración de cantidades"
+
+#: product-quantity-settings.php:82
+msgid "Activate the configuration of the quantities field."
+msgstr "Activa la configuración de cantidades."
+
+#: product-quantity-settings.php:90
+msgid "Minimum amount"
+msgstr "Cantidad mínima"
+
+#: product-quantity-settings.php:93
+msgid "Minimum amount allowed (>0)"
+msgstr "Cantidad mínima permitida (>0)"
+
+#: product-quantity-settings.php:101
+msgid "Maximum Quantity"
+msgstr "Cantidad máxima"
+
+#: product-quantity-settings.php:104
+msgid "Set the maximum allowed quantity limit (a number greater than 0). Value -1 is unlimited"
+msgstr "Cantidad máxima permitida (n1 mayor que 0). El valor -1 es ilimitado"
+
+#: product-quantity-settings.php:112
+msgid "Quantity Range"
+msgstr "Rango de cantidad"
+
+#: product-quantity-settings.php:115
+msgid "Show range amount allowed"
+msgstr "Muestra el rango de cantidad permitido"
