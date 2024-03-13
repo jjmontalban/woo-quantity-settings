@@ -18,7 +18,9 @@ You can to set a minimum, a maximum one or a quantity range for products in Wooc
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.jpg. Screenshots are stored in the /assets directory.
+1. In the general tab of product creation, new options will appear to define the minimum quantity, the maximum quantity (-1 for infinity), and the range of quantities.
+2. On the product page it will only be possible to select those quantities.
+3. On the cart page it will only be possible to select those quantities.
 
 == Frequently Asked Questions ==
 
